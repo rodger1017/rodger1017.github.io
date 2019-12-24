@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSString & NSMutableString 基本用法
+title: NSString & NSMutableString 基本用法(1.0)
 ---
 
 ### NSString
@@ -229,3 +229,5 @@ NSLog(@"after delete mstr1: %@", mstr1);
 ```
 2019-12-13 12:47:53.093498+0800 ObjcBaseDemo[7119:3821229] after delete mstr1: world
 ```
+
+[demo地址](https://github.com/rodger1017/Study/tree/master/ObjcBaseDemo)
