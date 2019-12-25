@@ -1,6 +1,8 @@
 ---
-layout: post
 title: NSString & NSMutableString 基本用法(1.0)
+layout: posts
+category: iOS
+tag: objc
 ---
 
 ### NSString

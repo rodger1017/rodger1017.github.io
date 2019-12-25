@@ -1,6 +1,8 @@
 ---
-layout: post
 title: NSArray & NSMutableArray 基本用法
+layout: posts
+category: iOS
+tag: objc
 ---
 
 ## [NSArray](https://developer.apple.com/documentation/foundation/nsarray?language=objc) & [NSMutableArray](https://developer.apple.com/documentation/foundation/nsmutablearray?language=objc)

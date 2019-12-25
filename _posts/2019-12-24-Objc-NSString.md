@@ -1,6 +1,8 @@
 ---
-layout: post
 title: NSString & NSMutableString 基本用法
+layout: posts
+category: iOS
+tag: objc
 ---
 
 ## [NSString](https://developer.apple.com/documentation/foundation/nsstring?language=objc) & [NSMutableString](https://developer.apple.com/documentation/foundation/nsmutablestring?language=objc)

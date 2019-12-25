@@ -1,6 +1,8 @@
 ---
-layout: post
 title: NSDictionary & NSMutalbeDictionary 基本用法
+layout: posts
+category: iOS
+tag: objc
 ---
 
 ## [NSDictionary](https://developer.apple.com/documentation/foundation/nsdictionary?language=objc) & [NSMutalbeDictionary](https://developer.apple.com/documentation/foundation/nsmutabledictionary?language=objc)
