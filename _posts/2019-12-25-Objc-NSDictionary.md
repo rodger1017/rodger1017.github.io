@@ -1,7 +1,7 @@
 ---
 title: NSDictionary & NSMutalbeDictionary 基本用法
 layout: posts
-category: iOS
+categories: iOS
 tag: objc
 ---
 

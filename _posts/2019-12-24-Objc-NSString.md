@@ -1,7 +1,7 @@
 ---
 title: NSString & NSMutableString 基本用法
 layout: posts
-category: iOS
+categories: iOS
 tag: objc
 ---
 
